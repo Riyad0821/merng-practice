@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "Team72",
+        "MONGO_PASSWORD": "u9h7dUU2tmC5a41J",
+        "MONGO_DB": "AppertmentHunt"
+    }
+}
